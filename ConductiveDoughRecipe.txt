@@ -1,0 +1,10 @@
+1// Make the insulating dough
+Mix 1½ cups flour, ½ cup sugar, 3 Tbsp. vegetable oil, ½ cup distilled water, and food dye in a medium-size bowl. Stir until doughy. Turn out onto a flour-coated surface and knead.
+
+2// Cook the conductive dough
+Mix 1½ cups flour, ¼ cup salt, 1 Tbsp. vegetable oil, 1 cup tap water, food dye, and 3 Tbsp. cream of tartar in a pot over medium heat. Stir constantly until the dough thickens. Lay out on a floured surface to cool. (Keep small fingers away—it’ll be hot.)
+
+3// Complete the circuit
+Sandwich a piece of insulating dough between two balls of conductive dough. Insert the terminals of a DC power supply (one that takes two AAs or four AAAs, available at electronics shops) into each conductive piece and join them with an LED. Let there be light!
+
+Refrigerate the dough in plastic bags for future experiments.
